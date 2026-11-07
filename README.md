@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Tahani 👋
 
-<!--
-**tahaniasmas/tahaniasmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineering student at Université Djilali Liabès, working at the intersection of **machine learning** and **cybersecurity**. I build AI systems end to end and care about making them reliable and secure.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🔐 Going deeper into AI security (TryHackMe AI Security Learning Path)
+- 👁️ Computer vision and NLP applications in Python
+- 🌐 Network traffic analysis as a base for anomaly and intrusion detection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+Python · PyTorch · scikit-learn · Hugging Face · OpenCV · SQL · Git · Nmap
+
+## Contact
+📩 sellam.tahani.asma@gmail.com · [LinkedIn](https://linkedin.com/in/tahani-asma-sellam)
